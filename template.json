@@ -1,0 +1,24 @@
+{
+  "name": "Greenfield Academy",
+  "slug": "greenfield-academy",
+  "concept": "Private school",
+  "category": "education-learning",
+  "subcategory": "private-school",
+  "description": "Institutional school site: crest-led masthead, academics overview, admissions timeline, programmes page and a parents gateway panel.",
+  "design_family": "campus-institutional",
+  "pages": [
+    "index.html",
+    "programs.html"
+  ],
+  "features": [
+    "crest-led masthead",
+    "academics overview split",
+    "admissions timeline",
+    "programmes page detail",
+    "parents gateway panel",
+    "two-page structure"
+  ],
+  "recommended_tier": "free-or-pro-review",
+  "preview_image": "preview/cover.png",
+  "status": "local-draft"
+}
